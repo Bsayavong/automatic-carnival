@@ -2,7 +2,7 @@
 
 This README.md pertains for my very first creation of my portfolio.
 
-I've incorporated semantics to the best of my current abilty.
+I've incorporated semantics & CSS to the best of my current abilty.
 
 In this portfolio it contains a "Nav" bar which are anchored to the specific segments. When clicked it will scroll down to the section it was designated.
 
