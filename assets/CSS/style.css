@@ -7,6 +7,7 @@ body {
 	font-size: 13pt;
 }
 
+
 nav {
 	background-color: #282828;
 	text-align: center;
@@ -17,14 +18,17 @@ nav {
 	line-height: 56px;
 }
 
+
 nav ul {
 	margin-bottom: 0;
 	list-style: none;
 }
 
+
 nav li {
 	display: inline-block;
 }
+
 
 nav a {
 	position: relative;
@@ -38,36 +42,42 @@ nav a {
 	padding: 0 20px;
 }
 
+
 nav a:hover {
 	background: #524f4f;
 }
+
 
 ul {
 	list-style: disc;
 	padding-left: 16px;
 }
 
+
 article {
 	display: block;
 }
+
 
 h1 {
 	font-size: 52px;
 	font-weight: 300;
 }
 
+
 h1 strong {
 	font-weight: 700;
 }
+
 
 h2 {
 	font-size: 32px;
 }
 
+
 h3 {
 	font-size: 24px;
 }
-
 
 
 header {
@@ -82,11 +92,12 @@ header {
 	text-align: center;
 }
 
-		
+
 ul {
 	list-style: disc;
 	padding-left: 16px;
 }
+
 
 ul li {
 	padding-left: 8px;
@@ -97,6 +108,7 @@ img {
 	max-width:100%;
 }
 
+
 .box {
 	background: #fff;
 	box-shadow: inset 0px 0px 0px 5px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
@@ -106,6 +118,7 @@ img {
 .box.style1 {
 	padding: 45px 30px 45px 30px;
 }
+
 
 .wrapper {
 	box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
